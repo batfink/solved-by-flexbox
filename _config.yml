@@ -3,6 +3,7 @@ permalink: /articles/:title
 # Use the port config option to determine if we're in prod or dev
 # anything other than port 80 is assumed to be dev
 port: 9999
+host: 192.168.1.214
 url: //philipwalton.github.io/solved-by-flexbox
 
 markdown: rdiscount
